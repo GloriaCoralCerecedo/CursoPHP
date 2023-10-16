@@ -16,7 +16,7 @@ $numero = 24;
 # Double: Números con decimales
 $numero_decimal = 10.5;
 # Boolean: Verdadero o Falso (true / false)
-$verdader = true; 
+$verdadero = true; 
 # Array: Arreglo
 # Object: Objeto
 # Class: Clase
